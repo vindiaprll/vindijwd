@@ -1,0 +1,27 @@
+html{
+   scroll-behavior: smooth;
+}
+.banner{
+   background: url(asset/image.png) no-repeat center center;
+   background-size: cover;
+   padding-top: 20%;
+   padding-bottom: 20%;
+}
+.carousel-item{
+   height: 690px;
+}
+.klien{
+   height: auto;
+   max-height: 50px;
+}
+
+.crop-img{
+   object-fit: cover;
+}
+
+.kontak{
+   background: url(asset/bg1.jpeg) no-repeat center center;
+   background-size: cover;
+   padding-top: 20%;
+   padding-bottom: 20%;
+}
